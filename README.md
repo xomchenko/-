@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 </head>
 <body>
-<p><img src="1-4.jpg" width="1024" height="400"></p>
-<p><img src="1-1.jpg" width="1024" height="980"></p>
-<p><img src="1-2.jpg" width="1024" height="980"></p>
-<p><img src="1-3.jpg" width="1024" height="980"></p>
+<p><img src="1-4.jpg" ></p>
+<p><img src="1-1.jpg" ></p>
+<p><img src="1-2.jpg" ></p>
+<p><img src="1-3.jpg" ></p>
 
 <html>
      <head>
