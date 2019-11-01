@@ -8,7 +8,6 @@
 <p><img src="1-1.jpg" width="1280" height="980"></p>
 <p><img src="1-2.jpg" width="1280" height="980"></p>
 <p><img src="1-3.jpg" width="1280" height="980"></p>
-
 <html>
      <head>
           <meta charset="utf-8">
@@ -33,5 +32,4 @@ div id="scroll-bottom"></div>
 
 </body>
 </html>
-</body>
-</html>
+
