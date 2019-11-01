@@ -28,7 +28,8 @@ div id="scroll-bottom"></div>
 <p id="back-top">
   <a href="#top"><span></span></a>
 </p>
-
+</body>
+</html>
 
 </body>
 </html>
