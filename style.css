@@ -95,12 +95,12 @@ img {
 }
 
 #back-top span{
-  width:64px;
-  height: 64px;
+  width:131px;
+  height: 82px;
   display:block;
   margin: 0;
   padding: 0;
-  background: url("img/site-arrow-1.png") no-repeat center center;
+  background: url("img/scroll-up.png") no-repeat center center;
   -webkit-transition:2s;
   -moz-transition:2s;
   transition:2s;
