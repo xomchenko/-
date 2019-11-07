@@ -44,11 +44,6 @@ div class="container">
   </svg>
 </div>
 <button><a href="https://vk.cc/9ZKeSf">Купить приватку</a></button>
-<html>
-
-<head>
-  <title>Отзывы наших покупателей</title>
-  <meta charset="UTF-8">
-</head>
-
-<body>
+<h1>Отзывы</h1>
+<p>Немного простого текста.lt;/p>
+<hr>
