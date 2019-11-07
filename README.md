@@ -8,7 +8,7 @@
 <p><img src="1-1.jpg" width="1280" height="980"></p>
 <p><img src="1-2.jpg" width="1280" height="980"></p>
 <p><img src="1-3.jpg" width="1280" height="980"></p>
-<hr>
+
 <html>
      <head>
           <meta charset="utf-8">
@@ -45,5 +45,5 @@ div class="container">
 </div>
 <button><a href="https://vk.cc/9ZKeSf">Купить приватку</a></button>
 <h1>Отзывы</h1>
-<p>Немного простого текста.lt;/p>
+<p>Немного простого текста</p>
 <hr>
