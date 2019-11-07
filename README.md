@@ -19,9 +19,9 @@
 </div>
      <body>
           <div class="wrapper">
-               <img src="Bowsette_4KDesktop_V03.jpg">
-               <img src="Ashe_4KDesktop_V01.jpg">
-               <img src="Albedo_4KDesktop_V01.jpg">
+               <img src="">
+               <img src="">
+               <img src="">
             
           </div>
      </body>
