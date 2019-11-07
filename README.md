@@ -8,12 +8,17 @@
 <p><img src="1-1.jpg" width="1280" height="980"></p>
 <p><img src="1-2.jpg" width="1280" height="980"></p>
 <p><img src="1-3.jpg" width="1280" height="980"></p>
+<div style="background-color:black;color:white;padding:20px;">
+ 
+  <centr><p>Скриншоты приватной группы</p></centr>
 <html>
      <head>
           <meta charset="utf-8">
           <link rel="stylesheet" type="text/css" href="style.css" />
           <title>Слай-шоу HTML CSS</title>
      </head>
+   
+</div>
      <body>
           <div class="wrapper">
                <img src="Bowsette_4KDesktop_V03.jpg">
