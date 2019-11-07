@@ -34,20 +34,9 @@ div id="scroll-bottom"></div>
 </body>
 </html>
 
-</body>
-</html>
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<center><h1>Отзывы наших покупателей</h1></center>
 
-<p>Здесь вы можете после покупки оставить свой отзыв о товаре</p>
 
-</body>
-</html>
+
