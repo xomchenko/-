@@ -36,4 +36,10 @@ div id="scroll-bottom"></div>
 
 </body>
 </html>
-<center><h2>Отзывы наших покупателей</h2><center>
+div class="container">
+  <svg viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 18 32.34 l -8.34 -8.34 -2.83 2.83 11.17 11.17 24 -24 -2.83 -2.83 z" stroke="#3da35a" fill="transparent"/>
+  </svg>
+</div>
+
+<button><a href="https://vk.cc/9ZKeSf">Купить приватку</a></button>
