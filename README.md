@@ -19,8 +19,8 @@
 </div>
      <body>
           <div class="wrapper">
-               <img src="">
-               <img src="">
+               <img src="Screenshot_14.png">
+               <img src="Screenshot_15.png">
                <img src="">
             
           </div>
