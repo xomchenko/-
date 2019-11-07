@@ -41,7 +41,7 @@ div id="scroll-bottom"></div>
 <body>
 <h1 align="center" style="color: Black">Отзывы наших покупателей</h1>
 <br>
-<h2 align="center" style="color: Black">Здесь вы можете оставить свой отзыв о приватной группе</h2>
+<h2 align="center" style="color: Black">Здесь вы можете после покупки оставить свой отзыв о приватной группе</h2>
 <hr>
 </body>
 </html>
