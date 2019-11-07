@@ -36,4 +36,4 @@ div id="scroll-bottom"></div>
 
 </body>
 </html>
-<center><h2>Отзывы</h2><center>
+<center><h2>Отзывы наших покупателей</h2><center>
