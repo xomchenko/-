@@ -37,10 +37,6 @@ div id="scroll-bottom"></div>
 </body>
 </html>
 
-
-div class="container">
-</div>
-<button><a href="https://vk.cc/9ZKeSf">Купить приватку</a></button>
 <h1>Отзывы</h1>
 <p>Немного простого текста</p>
 <hr>
