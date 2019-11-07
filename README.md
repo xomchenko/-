@@ -8,9 +8,7 @@
 <p><img src="1-1.jpg" width="1280" height="980"></p>
 <p><img src="1-2.jpg" width="1280" height="980"></p>
 <p><img src="1-3.jpg" width="1280" height="980"></p>
-<div style="background-color:black;color:white;padding:20px;">
- 
-  <centr><p>Скриншоты приватной группы</p></centr>
+
 <html>
      <head>
           <meta charset="utf-8">
@@ -38,4 +36,4 @@ div id="scroll-bottom"></div>
 
 </body>
 </html>
-
+<center><h2>Отзывы</h2><center>
