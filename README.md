@@ -44,6 +44,11 @@ div class="container">
   </svg>
 </div>
 <button><a href="https://vk.cc/9ZKeSf">Купить приватку</a></button>
-<center><h1>Отзывы</h1></center>
-<p> Здесь после покупки можете оставить свой отзыв о покупке приватной группы </p>
-<hr>
+<html>
+
+<head>
+  <title>Отзывы наших покупателей</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
