@@ -35,6 +35,7 @@ div id="scroll-bottom"></div>
 </body>
 </html>
 
+<!DOCTYPE html>
 <html>
 <head>
 <title>Заголовки HTML</title>
