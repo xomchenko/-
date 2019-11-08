@@ -35,17 +35,8 @@ div id="scroll-bottom"></div>
 </body>
 </html>
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Заголовки HTML</title>
-</head>
-<body>
-<h1 align="center" style="color: Black"></h1>
-<h2 align="center" style="color: Black"></h2>
 <hr>
-</body>
-</html>
+
 
 
 
